@@ -208,7 +208,7 @@
             // 
             panelSettingsToolStripMenuItem.Image = Properties.Resources.Grid;
             panelSettingsToolStripMenuItem.Name = "panelSettingsToolStripMenuItem";
-            panelSettingsToolStripMenuItem.Size = new Size(184, 26);
+            panelSettingsToolStripMenuItem.Size = new Size(175, 22);
             panelSettingsToolStripMenuItem.Text = "PCB and Panel";
             panelSettingsToolStripMenuItem.Click += panelSettingsToolStripMenuItem_Click;
             // 
@@ -216,7 +216,7 @@
             // 
             nozzleSettingsToolStripMenuItem.Image = Properties.Resources.ConePreview_flipped;
             nozzleSettingsToolStripMenuItem.Name = "nozzleSettingsToolStripMenuItem";
-            nozzleSettingsToolStripMenuItem.Size = new Size(184, 26);
+            nozzleSettingsToolStripMenuItem.Size = new Size(175, 22);
             nozzleSettingsToolStripMenuItem.Text = "Nozzles";
             nozzleSettingsToolStripMenuItem.Click += nozzleSettingsToolStripMenuItem_Click;
             // 
@@ -225,7 +225,7 @@
             placementSettingsMenuItem.Enabled = false;
             placementSettingsMenuItem.Image = Properties.Resources.CustomActionEditor;
             placementSettingsMenuItem.Name = "placementSettingsMenuItem";
-            placementSettingsMenuItem.Size = new Size(184, 26);
+            placementSettingsMenuItem.Size = new Size(175, 22);
             placementSettingsMenuItem.Text = "Placement Settings";
             placementSettingsMenuItem.Visible = false;
             // 
@@ -233,7 +233,7 @@
             // 
             changePartMenuItem.Image = Properties.Resources.QuickReplace;
             changePartMenuItem.Name = "changePartMenuItem";
-            changePartMenuItem.Size = new Size(184, 26);
+            changePartMenuItem.Size = new Size(175, 22);
             changePartMenuItem.Text = "Change Part";
             changePartMenuItem.Click += toolStripMenuItem1_Click;
             // 
@@ -268,7 +268,7 @@
             exportToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { exportMenuItem1, exportMenuItem2 });
             exportToolStripMenuItem.Image = Properties.Resources.SaveTable;
             exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            exportToolStripMenuItem.Size = new Size(97, 24);
+            exportToolStripMenuItem.Size = new Size(96, 24);
             exportToolStripMenuItem.Text = "Export CSV";
             exportToolStripMenuItem.Click += exportToolStripMenuItem_Click;
             // 
@@ -343,7 +343,7 @@
             lb_totalParts.AutoSize = true;
             lb_totalParts.Location = new Point(11, 50);
             lb_totalParts.Name = "lb_totalParts";
-            lb_totalParts.Size = new Size(67, 15);
+            lb_totalParts.Size = new Size(68, 15);
             lb_totalParts.TabIndex = 2;
             lb_totalParts.Text = "Total Parts: ";
             // 
@@ -380,7 +380,6 @@
             dg_ProjectItems.Name = "dg_ProjectItems";
             dg_ProjectItems.ReadOnly = true;
             dg_ProjectItems.RowHeadersWidth = 51;
-            dg_ProjectItems.RowTemplate.Height = 25;
             dg_ProjectItems.Size = new Size(850, 369);
             dg_ProjectItems.TabIndex = 8;
             dg_ProjectItems.CellContentClick += dg_ProjectItems_CellContentClick;

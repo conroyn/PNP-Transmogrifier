@@ -103,7 +103,7 @@
             // 
             // rtb_HeaderLines
             // 
-            rtb_HeaderLines.Font = new Font("Consolas", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+            rtb_HeaderLines.Font = new Font("Consolas", 10.2F);
             rtb_HeaderLines.Location = new Point(164, 34);
             rtb_HeaderLines.Margin = new Padding(3, 2, 3, 2);
             rtb_HeaderLines.Name = "rtb_HeaderLines";
@@ -292,9 +292,9 @@
             label11.ImageAlign = ContentAlignment.MiddleLeft;
             label11.Location = new Point(9, 88);
             label11.Name = "label11";
-            label11.Size = new Size(130, 15);
+            label11.Size = new Size(136, 15);
             label11.TabIndex = 27;
-            label11.Text = "    X Origin Offset (mm)";
+            label11.Text = "      X Origin Offset (mm)";
             label11.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // nm_YOriginOffset
@@ -326,15 +326,15 @@
             label12.ImageAlign = ContentAlignment.MiddleLeft;
             label12.Location = new Point(183, 88);
             label12.Name = "label12";
-            label12.Size = new Size(130, 15);
+            label12.Size = new Size(136, 15);
             label12.TabIndex = 26;
-            label12.Text = "    Y Origin Offset (mm)";
+            label12.Text = "      Y Origin Offset (mm)";
             label12.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label13
             // 
             label13.AutoSize = true;
-            label13.Location = new Point(339, 89);
+            label13.Location = new Point(339, 88);
             label13.Name = "label13";
             label13.Size = new Size(409, 15);
             label13.TabIndex = 28;
@@ -345,7 +345,7 @@
             label14.AutoSize = true;
             label14.Location = new Point(339, 107);
             label14.Name = "label14";
-            label14.Size = new Size(461, 15);
+            label14.Size = new Size(462, 15);
             label14.TabIndex = 29;
             label14.Text = "This can be used to correct mismatches between Machine and PnP CSV origins points.";
             // 

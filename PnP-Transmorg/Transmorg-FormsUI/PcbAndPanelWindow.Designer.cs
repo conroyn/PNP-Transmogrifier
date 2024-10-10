@@ -94,9 +94,9 @@
             label2.ImageAlign = ContentAlignment.MiddleLeft;
             label2.Location = new Point(106, 70);
             label2.Name = "label2";
-            label2.Size = new Size(128, 15);
+            label2.Size = new Size(135, 15);
             label2.TabIndex = 5;
-            label2.Text = "    PCB Thickness (mm)";
+            label2.Text = "      PCB Thickness (mm)";
             label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label1
@@ -106,9 +106,9 @@
             label1.ImageAlign = ContentAlignment.MiddleLeft;
             label1.Location = new Point(106, 46);
             label1.Name = "label1";
-            label1.Size = new Size(144, 15);
+            label1.Size = new Size(150, 15);
             label1.TabIndex = 4;
-            label1.Text = "    PCB Y Dimension (mm)";
+            label1.Text = "      PCB Y Dimension (mm)";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // lb_PcbSizeX
@@ -118,9 +118,9 @@
             lb_PcbSizeX.ImageAlign = ContentAlignment.MiddleLeft;
             lb_PcbSizeX.Location = new Point(106, 21);
             lb_PcbSizeX.Name = "lb_PcbSizeX";
-            lb_PcbSizeX.Size = new Size(144, 15);
+            lb_PcbSizeX.Size = new Size(150, 15);
             lb_PcbSizeX.TabIndex = 3;
-            lb_PcbSizeX.Text = "    PCB X Dimension (mm)";
+            lb_PcbSizeX.Text = "      PCB X Dimension (mm)";
             lb_PcbSizeX.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // nm_PcbHeight
@@ -215,9 +215,9 @@
             label11.ImageAlign = ContentAlignment.MiddleLeft;
             label11.Location = new Point(5, 141);
             label11.Name = "label11";
-            label11.Size = new Size(144, 15);
+            label11.Size = new Size(147, 15);
             label11.TabIndex = 18;
-            label11.Text = "    X Mouse Bite Size (mm)";
+            label11.Text = "     X Mouse Bite Size (mm)";
             label11.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // nm_XMouseBite
@@ -247,9 +247,9 @@
             label10.ImageAlign = ContentAlignment.MiddleLeft;
             label10.Location = new Point(172, 141);
             label10.Name = "label10";
-            label10.Size = new Size(144, 15);
+            label10.Size = new Size(150, 15);
             label10.TabIndex = 16;
-            label10.Text = "    Y Mouse Bite Size (mm)";
+            label10.Text = "      Y Mouse Bite Size (mm)";
             label10.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label6
@@ -259,9 +259,9 @@
             label6.ImageAlign = ContentAlignment.MiddleLeft;
             label6.Location = new Point(176, 57);
             label6.Name = "label6";
-            label6.Size = new Size(136, 15);
+            label6.Size = new Size(139, 15);
             label6.TabIndex = 10;
-            label6.Text = "    Y Panel Rail Size (mm)";
+            label6.Text = "     Y Panel Rail Size (mm)";
             label6.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // nm_YRailSize
@@ -291,9 +291,9 @@
             label7.ImageAlign = ContentAlignment.MiddleLeft;
             label7.Location = new Point(5, 57);
             label7.Name = "label7";
-            label7.Size = new Size(136, 15);
+            label7.Size = new Size(139, 15);
             label7.TabIndex = 7;
-            label7.Text = "    X Panel Rail Size (mm)";
+            label7.Text = "     X Panel Rail Size (mm)";
             label7.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label5
@@ -303,9 +303,9 @@
             label5.ImageAlign = ContentAlignment.MiddleLeft;
             label5.Location = new Point(129, 17);
             label5.Name = "label5";
-            label5.Size = new Size(87, 15);
+            label5.Size = new Size(90, 15);
             label5.TabIndex = 6;
-            label5.Text = "    Grid Count Y";
+            label5.Text = "     Grid Count Y";
             label5.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // nm_GridY
@@ -346,9 +346,9 @@
             label3.ImageAlign = ContentAlignment.MiddleLeft;
             label3.Location = new Point(5, 17);
             label3.Name = "label3";
-            label3.Size = new Size(87, 15);
+            label3.Size = new Size(90, 15);
             label3.TabIndex = 0;
-            label3.Text = "    Grid Count X";
+            label3.Text = "     Grid Count X";
             label3.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btn_Cancel

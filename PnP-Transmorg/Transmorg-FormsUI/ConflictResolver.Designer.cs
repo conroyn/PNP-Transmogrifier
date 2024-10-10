@@ -41,6 +41,8 @@
             btn_apply = new Button();
             cb_SkipPart = new CheckBox();
             gb_LibOption = new GroupBox();
+            tb_LibPackage = new TextBox();
+            label18 = new Label();
             tb_libPartDesc = new TextBox();
             label17 = new Label();
             tb_LibAltNozzleSize = new TextBox();
@@ -80,8 +82,6 @@
             btn_next = new Button();
             tb_ConflictCounter = new TextBox();
             cb_ConflictSelector = new ComboBox();
-            tb_LibPackage = new TextBox();
-            label18 = new Label();
             groupBox1.SuspendLayout();
             gb_LibOption.SuspendLayout();
             groupBox2.SuspendLayout();
@@ -235,6 +235,25 @@
             gb_LibOption.TabIndex = 1;
             gb_LibOption.TabStop = false;
             gb_LibOption.Text = "Library Options";
+            // 
+            // tb_LibPackage
+            // 
+            tb_LibPackage.Location = new Point(170, 80);
+            tb_LibPackage.Name = "tb_LibPackage";
+            tb_LibPackage.ReadOnly = true;
+            tb_LibPackage.Size = new Size(216, 23);
+            tb_LibPackage.TabIndex = 28;
+            tb_LibPackage.TabStop = false;
+            tb_LibPackage.TextAlign = HorizontalAlignment.Center;
+            // 
+            // label18
+            // 
+            label18.AutoSize = true;
+            label18.Location = new Point(113, 83);
+            label18.Name = "label18";
+            label18.Size = new Size(51, 15);
+            label18.TabIndex = 27;
+            label18.Text = "Package";
             // 
             // tb_libPartDesc
             // 
@@ -628,25 +647,6 @@
             cb_ConflictSelector.Size = new Size(108, 23);
             cb_ConflictSelector.TabIndex = 3;
             cb_ConflictSelector.SelectedIndexChanged += cb_ConflictSelector_SelectedIndexChanged;
-            // 
-            // tb_LibPackage
-            // 
-            tb_LibPackage.Location = new Point(170, 80);
-            tb_LibPackage.Name = "tb_LibPackage";
-            tb_LibPackage.ReadOnly = true;
-            tb_LibPackage.Size = new Size(216, 23);
-            tb_LibPackage.TabIndex = 28;
-            tb_LibPackage.TabStop = false;
-            tb_LibPackage.TextAlign = HorizontalAlignment.Center;
-            // 
-            // label18
-            // 
-            label18.AutoSize = true;
-            label18.Location = new Point(113, 83);
-            label18.Name = "label18";
-            label18.Size = new Size(51, 15);
-            label18.TabIndex = 27;
-            label18.Text = "Package";
             // 
             // ConflictResolver
             // 

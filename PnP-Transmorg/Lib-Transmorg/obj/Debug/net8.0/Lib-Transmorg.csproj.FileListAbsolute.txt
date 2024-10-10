@@ -1,0 +1,12 @@
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\bin\Debug\net8.0\Lib-Transmorg.deps.json
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\bin\Debug\net8.0\Lib-Transmorg.dll
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\bin\Debug\net8.0\Lib-Transmorg.pdb
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.GeneratedMSBuildEditorConfig.editorconfig
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.AssemblyInfoInputs.cache
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.AssemblyInfo.cs
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.csproj.CoreCompileInputs.cache
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.sourcelink.json
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.dll
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\refint\Lib-Transmorg.dll
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\Lib-Transmorg.pdb
+E:\PNP-Transmogrifier\PnP-Transmorg\Lib-Transmorg\obj\Debug\net8.0\ref\Lib-Transmorg.dll

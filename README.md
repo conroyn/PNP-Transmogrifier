@@ -2,7 +2,7 @@
 
 A .NET application to convert pick-and-place CSV files exported from EDA tools (i.e Altium) into a machine compatible format (i.e. Neoden YY1 .csv format). Easy enough to use that every engineer I've given it to has been able to figure it out on their own in just a few minutes!
 
-Save you Pick and Place project into an intermediate file format so you can easily come back to it later or make a cope for a different board easily without having to re-import your CSVs! Application .tmog files are gzip compressed JSON. Uncompressed JSON is also accepted. 
+Save your Pick and Place project into an intermediate file format so you can easily come back to it later or make a cope for a different board easily without having to re-import your CSVs! Application .tmog files are gzip compressed JSON. Uncompressed JSON is also accepted. 
 
 ![Application Main Window](Tmog_main_window.png)
 

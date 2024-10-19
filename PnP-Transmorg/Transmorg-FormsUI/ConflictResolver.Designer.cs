@@ -156,7 +156,7 @@
             btn_libNext.Name = "btn_libNext";
             btn_libNext.Size = new Size(24, 23);
             btn_libNext.TabIndex = 7;
-            btn_libNext.Text = "→";
+            btn_libNext.Text = ">";
             btn_libNext.UseVisualStyleBackColor = true;
             btn_libNext.Click += btn_libNext_Click;
             // 
@@ -176,7 +176,7 @@
             btn_libLast.Name = "btn_libLast";
             btn_libLast.Size = new Size(24, 23);
             btn_libLast.TabIndex = 6;
-            btn_libLast.Text = "←";
+            btn_libLast.Text = "<";
             btn_libLast.UseVisualStyleBackColor = true;
             btn_libLast.Click += btn_libLast_Click;
             // 
@@ -613,7 +613,7 @@
             btn_last.Name = "btn_last";
             btn_last.Size = new Size(24, 23);
             btn_last.TabIndex = 0;
-            btn_last.Text = "←";
+            btn_last.Text = "<";
             btn_last.UseVisualStyleBackColor = true;
             btn_last.Click += btn_last_Click;
             // 
@@ -623,7 +623,7 @@
             btn_next.Name = "btn_next";
             btn_next.Size = new Size(24, 23);
             btn_next.TabIndex = 1;
-            btn_next.Text = "→";
+            btn_next.Text = ">";
             btn_next.UseVisualStyleBackColor = true;
             btn_next.Click += btn_next_Click;
             // 
